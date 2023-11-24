@@ -1,0 +1,3 @@
+Kuerzester Pfad: >>!>>!vv>>
+Laenge: 14
+Berechnungszeit: 0.0008580684661865234s

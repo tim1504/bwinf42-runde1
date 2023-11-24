@@ -1,0 +1,30 @@
+Tabelle fuer L1
+Q1|L
+0 |0
+1 |1
+
+Tabelle fuer L2
+Q1|L
+0 |1
+1 |1
+
+Tabelle fuer L3
+Q4|Q5|L
+0 |0 |0
+1 |0 |1
+0 |1 |0
+1 |1 |1
+
+Tabelle fuer L4
+Q4|Q5|L
+0 |0 |1
+1 |0 |1
+0 |1 |1
+1 |1 |0
+
+Tabelle fuer L5
+Q5|L
+0 |0
+1 |1
+
+Berechnungszeit: 0.001928091049194336

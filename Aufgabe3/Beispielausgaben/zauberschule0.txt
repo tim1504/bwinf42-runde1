@@ -1,0 +1,3 @@
+Kuerzester Pfad: !>>!
+Laenge: 8
+Berechnungszeit: 0.0004131793975830078s
